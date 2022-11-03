@@ -1,0 +1,6 @@
+Los ETL se disparan cuando se detectan cambios en la base de datos MySql. 
+Los procesos son Sincronos en eventos data-entry (Import, Edit Profile)
+Asincronos en los procesos de busqueda. 
+Estos procesos deben formar parte del house keeping process. 
+
+

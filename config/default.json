@@ -1,0 +1,7 @@
+{
+    "elastic": {
+      "username": "elastic",
+      "password": "VpTrxCb8lAe+JFiz+gCU",
+      "node": "https://127.0.0.1:9200"
+    }
+  }

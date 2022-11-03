@@ -1,0 +1,21 @@
+{
+  "name": "ms-search",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Oscar Caldeira",
+  "license": "ISC",
+  "dependencies": {
+    "@elastic/elasticsearch": "^8.4.0",
+    "config": "^3.3.8",
+    "configs": "^1.0.3",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongodb": "^4.11.0",
+    "mongoose": "^6.6.7",
+    "nodemon": "^2.0.20"
+  }
+}
